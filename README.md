@@ -4,4 +4,4 @@ Here you will discover a series of projects that revolve around the use of only 
 
 # Examples
 ## Abstract_Pattern
-(https://github.com/GiuliaBenvenuto/Illustrator/assets/74498333/0b26629a-2c12-4de3-b9c2-3b7c737db404)
+![Preview_1](https://github.com/GiuliaBenvenuto/Illustrator/assets/74498333/0b26629a-2c12-4de3-b9c2-3b7c737db404)
